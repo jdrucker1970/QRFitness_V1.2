@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QRFitness_V1.2</string>
+    <string name="result_text_default">Please focus camera to QR Code</string>
+    <string name="workout_history_table_name">workout_history_1.db</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="init_text">Neurobin Date Picker Example</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_data">Add Data</string>
+    <string name="date">Date</string>
+    <string name="number_of_reps">Number of Reps</string>
+    <string name="routine">Routine</string>
+    <string name="set_number">Set Number</string>
+    <string name="view_db">View DB</string>
+    <string name="weight">Weight</string>
+    <string name="save_rest">Save &amp; Rest</string>
+    <string name="_30">30</string>
+</resources>
